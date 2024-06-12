@@ -57,7 +57,6 @@ Sample Output:
 using namespace std;
 int main() {
 
-	// Write your code here
     while (true) {
         int choice;
         cin >> choice;
