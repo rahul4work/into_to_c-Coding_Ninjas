@@ -35,7 +35,7 @@ using namespace std;
 
 int main() {
 
-	int N;
+    int N;
     cin >> N;
     int revNum = 0;
 
