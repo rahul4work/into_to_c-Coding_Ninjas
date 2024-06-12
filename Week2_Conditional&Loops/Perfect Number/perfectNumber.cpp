@@ -36,7 +36,7 @@ Sample Output 2:
 using namespace std;
 int main() {
 
-	int n;
+    int n;
     cin >> n;
 
     int sum = 0;
