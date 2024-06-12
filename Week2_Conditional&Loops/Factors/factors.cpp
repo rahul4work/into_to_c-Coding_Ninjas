@@ -40,7 +40,7 @@ using namespace std;
 
 int main() {
 
-	 int num;
+    int num;
     cin >> num;
 
     int countFactors = 0;
