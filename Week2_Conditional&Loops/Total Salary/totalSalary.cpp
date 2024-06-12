@@ -54,7 +54,7 @@ using namespace std;
 
 int main() {
 	
-	int basicSalary;
+    int basicSalary;
     char grade;
     cin >> basicSalary >> grade;
 
